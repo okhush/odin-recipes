@@ -1,0 +1,53 @@
+#title {
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(157, 45, 45);
+    color: wheat;
+    font-weight: 700;
+}
+
+.recipes {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+#full,
+#lasagna,
+#banana,
+#choc {
+    background-color: rgb(28, 27, 27);
+    color: white;
+    font-size: 20px;
+}
+
+#lasagna {
+}
+
+.uh,
+.uhh,
+.uhhh {
+    font-size: 60px;
+}
+
+.uh {
+    background-color: rgb(178, 54, 32);
+}
+
+.uhh {
+    background-color: rgb(72, 39, 25);
+}
+
+.uhhh {
+    background-color: rgb(95, 55, 32);
+}
+
+.lasdes,
+.lasing,
+.laste {
+    font-size: 30px;
+}
+
+.img {
+    width: 350px;
+}
